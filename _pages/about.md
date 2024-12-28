@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Xiaozhu 
+I am Xiaozhu Fang from CUHKSZ
 
 A data-driven personal website
 ======
