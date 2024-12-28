@@ -11,7 +11,7 @@ redirect_from:
 
 Awards
 ======
-* Finalist of Young Author Award at the 20th IFAC Symposium on System Identification (SYSID) in Boston, MA, USA, 2024
+* On of thhree finalists for the Young Author Award (YAA) at the 20th IFAC Symposium on System Identification (SYSID) in Boston, MA, USA, 2024
 * Outstanding Reveiwer, Control Theorey and Technology, 2023
 
 
