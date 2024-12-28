@@ -20,9 +20,9 @@ Journal Paper
 
 Conference Paper
 ======
-- Fang, X., Mu, B., & Chen, T. (2024). Kernel-Based Regularized Continuous-Time System Identification from Sampled Data. In 2024 63nd IEEE Conference on Decision and Control (CDC).
-- Fang, X., Xu, Y., & Chen, T. (2024). A Local Gaussian Process Regression Approach to Frequency Response Function Estimation. IFAC-PapersOnLine, 
-- Xu, Y., Fang, X., Mu, B., & Chen, T. (2024). An Efficient Implementation for Regularized Frequency Response Function and Transient Estimation. IFAC-PapersOnLine, 58(15), 127-132.
-- Fang, X., & Chen, T. (2022, July). On kernel design for non-causal systems with application to feedforward control. In 2022 41st Chinese control conference (CCC) (pp. 1523-1528). IEEE.
+- Fang, X., Mu, B., & Chen, T. (2024). Kernel-Based Regularized Continuous-Time System Identification from Sampled Data. In the 63nd IEEE Conference on Decision and Control (CDC).
+- Fang, X., Xu, Y., & Chen, T. (2024). A Local Gaussian Process Regression Approach to Frequency Response Function Estimation. In the 20th IFAC Symposium on System Identification (SYSID). 
+- Xu, Y., Fang, X., Mu, B., & Chen, T. (2024). An Efficient Implementation for Regularized Frequency Response Function and Transient Estimation. In the 20th IFAC Symposium on System Identification (SYSID).
+- Fang, X., & Chen, T. (2022, July). On kernel design for non-causal systems with application to feedforward control. In 2022 41st Chinese control conference (CCC).
 
 
