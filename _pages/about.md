@@ -1,13 +1,14 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am Xiaozhu Fang from CUHKSZ
+I was born in 1996. I am a forth year PhD student from School of Science and Engineering, The Chinese University of Hong Kong, Shenzhen. Before that, I have obtained the dual master degree of Mechanical Engineering (ME) and Electrical & Computer Engineering (ECE) from University of Michigan, Ann Arbor, in 2020, and I have obtained the bachelor degree of Mechanical Engineering from Shanghai Jiao Tong Univeristy, China, in 2018. My research interest includes system identification, machine learning, and their applications in control.
+
 
 A data-driven personal website
 ======
