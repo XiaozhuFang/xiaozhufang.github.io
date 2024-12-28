@@ -16,8 +16,3 @@ Academic Awards
 * National Scholarship, China, 2017
 
 
-Others
------
-* On of thhree finalists for the Young Author Award (YAA) at the 20th IFAC Symposium on System Identification (SYSID) in Boston, MA, USA, 2024
-*
-
