@@ -10,8 +10,10 @@ redirect_from:
 {% include base_path %}
 
 Teaching Assistant
-======
+-----
 - STA2001, Probability and Statistics I, CUHK, Shenzhen
-- DDA3010, Applied Machine Learning, CUHK, Shenzhen 
+- DDA3010, Applied Machine Learning, CUHK, Shenzhen
+- CSC3001, Discrete Mathematics, CUHK, Shenzhen
+- CSC1001, Introduction to Computer Science, CUHK, Shenzhen 
 
 
