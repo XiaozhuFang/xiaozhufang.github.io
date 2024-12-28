@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a forth year PhD student from School of Science and Engineering, The Chinese University of Hong Kong, Shenzhen. My supervisor is Prof. Tianshi Chen. My research interest includes system identification, machine learning, and their applications in control. I am looking for a postdoc position on identification and control. 
+Welcome! I am a forth year PhD student from School of Science and Engineering, The Chinese University of Hong Kong, Shenzhen. My supervisor is Prof. Tianshi Chen. My research interest includes system identification, machine learning, and their applications in control. 
+
+I am looking for a postdoc position on identification and control. 
 
 
 Education
