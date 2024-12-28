@@ -11,7 +11,18 @@ redirect_from:
 
 
 
+Journal Reviewer 
+======
+- IFAC Automatica
+- IEEE Transactions on Automatic Control
+- Systems & Control Letters
+- Control Theory and Technology
 
-* One of three finalists for the Young Author Award (YAA) at the 20th IFAC Symposium on System Identification (SYSID) in Boston, MA, USA, 2024
-* Outstanding Reveiwer, Control Theorey and Technology, 2023
-* National Scholarship, China, 2017
+
+Conference Reviewer
+======
+- IEEE Conference on Decision and Control (CDC).
+- IFAC World Congress
+- IFAC Symposium on System Identification (SYSID). 
+
+
