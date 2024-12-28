@@ -9,4 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-Teaching
+Teaching Assistant
+======
+- STA2001, Probability and Statistics I, CUHK, Shenzhen
+- DDA3010, Applied Machine Learning, CUHK, Shenzhen 
+
+
