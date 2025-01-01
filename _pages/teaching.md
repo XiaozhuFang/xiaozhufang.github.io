@@ -15,5 +15,5 @@ Teaching Assistant
 - DDA3010, Applied Machine Learning, CUHK, Shenzhen
 - CSC3001, Discrete Mathematics, CUHK, Shenzhen
 - CSC1001, Introduction to Computer Science, CUHK, Shenzhen 
-
+- VE215, Introduction to Circuits, SJTU, Shanghai
 
