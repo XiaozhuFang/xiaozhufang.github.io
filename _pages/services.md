@@ -15,6 +15,7 @@ Journal Reviewer
 ======
 - IFAC Automatica
 - IEEE Transactions on Automatic Control
+- Control Engineering Practice
 - Systems & Control Letters
 - Control Theory and Technology
 
