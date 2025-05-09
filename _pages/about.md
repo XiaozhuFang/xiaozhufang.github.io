@@ -14,6 +14,7 @@ I am looking for a postdoc position on identification and control.
 
 Education
 ======
+- PhD candidate, The Chinese University of Hong Kong, Shenzhen, Computer and Information Engineering, expected in 2025
 - M.S., University of Michigan, Ann Arbor, Mechanical Engineering, in May 2020.
 - M.S., University of Michigan, Ann Arbor, Electrical and Computer Engineering, in May 2020.
 - B.S., Shanghai Jiao Tong University, China, Mechanical Engineering (UM-SJTU Joint Institute), in July, 2018.
