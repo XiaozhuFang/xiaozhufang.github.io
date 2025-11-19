@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+Preprint
+======
+- Fang, X., & Xu, Y., Chen, T. Duality of Time and Frequency Domain Kernel-Based Regularized  System Identification. 
+
 
 Journal Paper
 ======
