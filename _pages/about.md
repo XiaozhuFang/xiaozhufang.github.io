@@ -20,7 +20,7 @@ Education
 - B.S., Shanghai Jiao Tong University, China, Mechanical Engineering (UM-SJTU Joint Institute), in July, 2018.
   
 
-* an exchange semester at TUM, Germany, in 2017 Fall,  
+$*$ an exchange semester at TUM, Germany, in 2017 Fall,  
 
 
 Working Experience
