@@ -19,8 +19,8 @@ Education
 - M.S., University of Michigan, Ann Arbor, Electrical and Computer Engineering, in May 2020.
 - B.S., Shanghai Jiao Tong University, China, Mechanical Engineering (UM-SJTU Joint Institute), in July, 2018.
   
-======
-with an exchange semester at TUM, Germany, in 2017 Fall,  
+
+* an exchange semester at TUM, Germany, in 2017 Fall,  
 
 
 Working Experience
