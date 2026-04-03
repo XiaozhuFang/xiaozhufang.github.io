@@ -11,8 +11,10 @@ redirect_from:
 
 Submitted 
 ======
-- Fang, X.,  Xu, Y., & Chen, T. Duality of Time and Frequency Domain Kernel-Based Regularized  System Identification.
-- Fang, X.,  Zhang, M., & Chen, T. On Fourier Duality of Stable Kernels and Their Reproducing Kernel Hilbert Spaces.
+- Fang, X.,  Xu, Y., & Chen, T.. Duality of Time and Frequency Domain Kernel-Based Regularized  System Identification.
+- Fang, X.,  Zhang, M., & Chen, T.. On Fourier Duality of Stable Kernels and Their Reproducing Kernel Hilbert Spaces.
+- Fang, X.,  Zhang, J., & Chen, T.. Characterization of Stable RKHSs with Sobolev Spaces: from Change of Variables to Modulation of Amplitude.
+- Zhang M., Fang, X., & Chen, T..  On Convergence of Kernel-based Regularized Frequency Response Function Estimation
 
 
 Journal Paper
