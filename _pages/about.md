@@ -31,6 +31,7 @@ Working Experience
 Research Interests
 ======
 - System Identification, including both time domain and freqeuncy domain approaches.
-- Machine Learning, with focus on Gaussian processes,  regularization, and kernel method.
+- Machine Learning, with focus on Gaussian processes,  regularization, and RKHS theory.
+ 
 
 
