@@ -30,9 +30,9 @@ Working Experience
 
 Research Interests
 ======
-- System identification, including both time domain and freqeuncy domain approaches.
+- System identification, including both time domain and frequency domain approaches.
 - Machine learning, with focus on Gaussian processes,  regularization, and RKHS theory.
-- Fourier analysis and functional analysis for system thoery. 
+- Fourier analysis and functional analysis for system theory. 
  
 
 
