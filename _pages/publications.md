@@ -12,9 +12,7 @@ redirect_from:
 Submitted 
 ======
 - Fang, X.,  Xu, Y., & Chen, T.. Duality of Time and Frequency Domain Kernel-Based Regularized  System Identification.
-- Fang, X.,  Zhang, M., & Chen, T.. On Fourier Duality of Stable Kernels and Their Reproducing Kernel Hilbert Spaces.
-- Fang, X.,  Zhang, J., & Chen, T.. Characterization of Stable RKHSs with Sobolev Spaces: from Change of Variables to Modulation of Amplitude.
-- Zhang M., Fang, X., & Chen, T..  On Convergence of Kernel-based Regularized Frequency Response Function Estimation
+
 
 
 Journal Paper
@@ -27,6 +25,9 @@ Journal Paper
 
 Conference Paper
 ======
+- Fang, X.,  Zhang, J., & Chen, T. (2026). Characterization of Stable RKHSs with Sobolev Spaces: from Change of Variables to Modulation of Amplitude. In the 65th IEEE Conference on Decision and Control (CDC).
+- Zhang M., Fang, X., & Chen, T. (2026).  On Convergence of Kernel-based Regularized Frequency Response Function Estimation. In the 65th IEEE Conference on Decision and Control (CDC).
+- Fang, X.,  Zhang, M., & Chen, T. (2026). On Fourier Duality of Stable Kernels and Their Reproducing Kernel Hilbert Spaces. In the 23rd IFAC World Congress.
 - Fang, X., Mu, B., & Chen, T. (2024). Kernel-Based Regularized Continuous-Time System Identification from Sampled Data. In the 63nd IEEE Conference on Decision and Control (CDC).
 - Fang, X., Xu, Y., & Chen, T. (2024). A Local Gaussian Process Regression Approach to Frequency Response Function Estimation. In the 20th IFAC Symposium on System Identification (SYSID). **Finalists for the Young Author Award**. 
 - Xu, Y., Fang, X., Mu, B., & Chen, T. (2024). An Efficient Implementation for Regularized Frequency Response Function and Transient Estimation. In the 20th IFAC Symposium on System Identification (SYSID).
