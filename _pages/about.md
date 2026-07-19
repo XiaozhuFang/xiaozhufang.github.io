@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I obtained the PhD from The Chinese University of Hong Kong, Shenzhen. My supervisor is Prof. Tianshi Chen. My research interest includes system identification, machine learning, and their applications in control. 
+Welcome! I obtained the PhD from The Chinese University of Hong Kong, Shenzhen. My supervisor is Prof. Tianshi Chen. My research interest includes system identification, machine learning, and their applications in control. My PhD thesis can be found in [On Fourier Analysis for Kernel-Based System Identification](https://irepository.cuhk.edu.cn/handle/3EPUXD0A/102941?mode=full) 
 
 I am looking for a postdoc position on identification and control. 
 
