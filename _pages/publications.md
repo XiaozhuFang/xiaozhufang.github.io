@@ -12,6 +12,7 @@ redirect_from:
 Submitted 
 ======
 - Fang, X.,  Xu, Y., & Chen, T.. Duality of Time and Frequency Domain Kernel-Based Regularized  System Identification.
+- Xu, Y., Fang, X., & Chen, T.. An Efficient Implementation for Kernel-Based Regularized FRF and Transient Estimation.
 
 
 
