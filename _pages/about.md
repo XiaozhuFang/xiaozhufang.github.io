@@ -23,10 +23,6 @@ Education
 an exchange semester at Technical University of Munich, Germany, in 2017 Fall. 
 
 
-Working Experience
-======
-- Internship, Alibaba Cloud (Aliyun), Industry Brain, from 2020-10 to 2021-1.
-
 
 Research Interests
 ======
