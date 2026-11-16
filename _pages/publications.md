@@ -9,29 +9,26 @@ redirect_from:
 
 {% include base_path %}
 
-Submitted 
-======
-- Fang, X.,  Xu, Y., & Chen, T.. Duality of Time and Frequency Domain Kernel-Based Regularized  System Identification.
-- Xu, Y., Fang, X., & Chen, T.. An Efficient Implementation for Kernel-Based Regularized FRF and Transient Estimation.
+## Submitted Manuscripts
 
+- **Fang, X.**, Xu, Y., & Chen, T. Duality of Time and Frequency Domain Kernel-Based Regularized System Identification.
+- Xu, Y., **Fang, X.**, & Chen, T. An Efficient Implementation for Kernel-Based Regularized FRF and Transient Estimation.
+- Zhang, M., **Fang, X.**, Mu, B., & Chen, T. On Convergence of Kernel-Based Regularized Impulse Response Estimation.
+- **Fang, X.\***, Chiuso, A., & Chen, T. Harnessing Uncertainty in Data-Driven Predictive Control of Continuous-Time Systems.
 
+## Journal Papers
 
-Journal Paper
-======
-- Fang, X., & Chen, T. (2024). On kernel design for regularized non-causal system identification. Automatica (Regular Paper), 159, 111335.
-- Yu, X., Fang, X., Mu, B., & Chen, T. (2023). Kernel-based regularized iterative learning control of repetitive linear time-varying systems. Automatica (Regular Paper), 154, 111047.
-- Chung, S., Chou, C. H., Fang, X., Al Kontar, R., & Okwudire, C. (2022). A Multi-stage approach for knowledge-guided predictions with application to additive manufacturing. IEEE Transactions on Automation Science and Engineering, 19(3), 1675-1687.
+- **Fang, X.**, & Chen, T. (2024). On Kernel Design for Regularized Non-Causal System Identification. *Automatica*, **159**, 111335.
+- Yu, X., **Fang, X.**, Mu, B., & Chen, T. (2023). Kernel-Based Regularized Iterative Learning Control of Repetitive Linear Time-Varying Systems. *Automatica*, **154**, 111047.
+- Chung, S., Chou, C. H., **Fang, X.**, Al Kontar, R., & Okwudire, C. (2022). A Multi-Stage Approach for Knowledge-Guided Predictions with Application to Additive Manufacturing. *IEEE Transactions on Automation Science and Engineering*, **19**(3), 1675–1687.
 
+## Conference Papers
 
-
-Conference Paper
-======
-- Fang, X.,  Zhang, J., & Chen, T. (2026). Characterization of Stable RKHSs with Sobolev Spaces: from Change of Variables to Modulation of Amplitude. In the 65th IEEE Conference on Decision and Control (CDC).
-- Zhang M., Fang, X., & Chen, T. (2026).  On Convergence of Kernel-based Regularized Frequency Response Function Estimation. In the 65th IEEE Conference on Decision and Control (CDC).
-- Fang, X.,  Zhang, M., & Chen, T. (2026). On Fourier Duality of Stable Kernels and Their Reproducing Kernel Hilbert Spaces. In the 23rd IFAC World Congress.
-- Fang, X., Mu, B., & Chen, T. (2024). Kernel-Based Regularized Continuous-Time System Identification from Sampled Data. In the 63nd IEEE Conference on Decision and Control (CDC).
-- Fang, X., Xu, Y., & Chen, T. (2024). A Local Gaussian Process Regression Approach to Frequency Response Function Estimation. In the 20th IFAC Symposium on System Identification (SYSID). **Finalists for the Young Author Award**. 
-- Xu, Y., Fang, X., Mu, B., & Chen, T. (2024). An Efficient Implementation for Regularized Frequency Response Function and Transient Estimation. In the 20th IFAC Symposium on System Identification (SYSID).
-- Fang, X., & Chen, T. (2022). On kernel design for non-causal systems with application to feedforward control. In 2022 41st Chinese control conference (CCC).
-
+- **Fang, X.**, Zhang, J., & Chen, T. (2026). Characterization of Stable RKHSs with Sobolev Spaces: From Change of Variables to Modulation of Amplitude. In *65th IEEE Conference on Decision and Control (CDC)*.
+- Zhang, M., **Fang, X.**, & Chen, T. (2026). On Convergence of Kernel-Based Regularized Frequency Response Function Estimation. In *65th IEEE Conference on Decision and Control (CDC)*.
+- **Fang, X.**, Zhang, M., & Chen, T. (2026). On Fourier Duality of Stable Kernels and Their Reproducing Kernel Hilbert Spaces. In *23rd IFAC World Congress*.
+- **Fang, X.**, Mu, B., & Chen, T. (2024). Kernel-Based Regularized Continuous-Time System Identification from Sampled Data. In *63rd IEEE Conference on Decision and Control (CDC)*.
+- **Fang, X.**, Xu, Y., & Chen, T. (2024). A Local Gaussian Process Regression Approach to Frequency Response Function Estimation. In *20th IFAC Symposium on System Identification (SYSID)*. **Young Author Award Finalist**.
+- Xu, Y., **Fang, X.**, Mu, B., & Chen, T. (2024). An Efficient Implementation for Regularized Frequency Response Function and Transient Estimation. In *20th IFAC Symposium on System Identification (SYSID)*.
+- **Fang, X.**, & Chen, T. (2022). On Kernel Design for Non-Causal Systems with Application to Feedforward Control. In *41st Chinese Control Conference (CCC)*.
 
