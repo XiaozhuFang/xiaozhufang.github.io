@@ -11,7 +11,7 @@ redirect_from:
 
 ## Submitted Manuscripts
 
-- **Fang, X.\***, Chiuso, A., & Chen, T. Harnessing Uncertainty in Data-Driven Predictive Control of Continuous-Time Systems.
+- **Fang, X.**, Chiuso, A., & Chen, T. Harnessing Uncertainty in Data-Driven Predictive Control of Continuous-Time Systems.
 - **Fang, X.**, Xu, Y., & Chen, T. Duality of Time and Frequency Domain Kernel-Based Regularized System Identification.
 - Xu, Y., **Fang, X.**, & Chen, T. An Efficient Implementation for Kernel-Based Regularized FRF and Transient Estimation.
 - Zhang, M., **Fang, X.**, Mu, B., & Chen, T. On Convergence of Kernel-Based Regularized Impulse Response Estimation.
