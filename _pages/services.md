@@ -1,27 +1,29 @@
 ---
-layout: academic
-title: Academic service
+layout: archive
+title: "Services"
 permalink: /services/
+author_profile: true
+redirect_from:
+  - /services
 ---
 
-<section class="record-section" aria-labelledby="journal-reviewer">
-  <h2 id="journal-reviewer">Journal reviewer</h2>
-  <ul class="venue-list">
-    <li>IFAC Automatica</li>
-    <li>IEEE Transactions on Automatic Control</li>
-    <li>Control Engineering Practice</li>
-    <li>Systems &amp; Control Letters</li>
-    <li>Control Theory and Technology</li>
-  </ul>
-</section>
+{% include base_path %}
 
-<section class="record-section" aria-labelledby="conference-reviewer">
-  <h2 id="conference-reviewer">Conference reviewer</h2>
-  <ul class="venue-list">
-    <li>IEEE Conference on Decision and Control (CDC)</li>
-    <li>IFAC World Congress</li>
-    <li>IFAC Symposium on System Identification (SYSID)</li>
-  </ul>
-</section>
+
+
+Journal Reviewer 
+======
+- IFAC Automatica
+- IEEE Transactions on Automatic Control
+- Control Engineering Practice
+- Systems & Control Letters
+- Control Theory and Technology
+
+
+Conference Reviewer
+======
+- IEEE Conference on Decision and Control (CDC).
+- IFAC World Congress
+- IFAC Symposium on System Identification (SYSID). 
 
 
