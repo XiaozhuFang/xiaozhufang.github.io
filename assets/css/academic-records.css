@@ -1,0 +1,206 @@
+/* Journal index and academic records */
+.section-jump {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  column-gap: 2rem;
+  row-gap: .35rem;
+  margin: 0 0 2.5rem;
+  padding: 0 0 .85rem;
+  border-bottom: 1px solid var(--rule);
+}
+
+.section-jump a {
+  padding: .35rem 0;
+  color: var(--wine);
+  font-family: var(--sans);
+  font-size: .95rem;
+  font-weight: 600;
+  text-decoration: underline;
+  text-decoration-color: transparent;
+  text-underline-offset: .27em;
+}
+
+.section-jump a:hover,
+.section-jump a:focus-visible {
+  text-decoration-color: currentColor;
+}
+
+.record-section {
+  display: grid;
+  grid-template-columns: minmax(10rem, 1fr) minmax(0, 3.25fr);
+  align-items: start;
+  column-gap: clamp(2.5rem, 6vw, 5.5rem);
+  padding-block: 2.45rem;
+  border-top: 1px solid var(--rule);
+  scroll-margin-top: 2rem;
+}
+
+.section-jump + .record-section {
+  border-top: 0;
+  padding-top: 0;
+}
+
+.record-section > h2 {
+  margin: 0;
+  font-family: var(--serif);
+  font-size: clamp(1.55rem, 2.35vw, 2rem);
+  font-weight: 500;
+  line-height: 1.13;
+  letter-spacing: -.025em;
+  text-wrap: balance;
+}
+
+.paper-list,
+.record-list,
+.venue-list {
+  min-width: 0;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.paper-row,
+.record-row {
+  display: flex;
+  align-items: baseline;
+  gap: clamp(.85rem, 2vw, 1.75rem);
+  padding-block: 1.45rem;
+}
+
+.paper-row + .paper-row,
+.record-row + .record-row,
+.venue-list li + li {
+  border-top: 1px solid var(--rule);
+}
+
+.paper-row:first-child,
+.record-row:first-child,
+.venue-list li:first-child {
+  padding-top: 0;
+}
+
+.paper-row:last-child,
+.record-row:last-child,
+.venue-list li:last-child {
+  padding-bottom: 0;
+}
+
+.paper-year,
+.record-key {
+  flex: 0 0 3.15rem;
+  color: var(--wine);
+  font-family: var(--sans);
+  font-size: .87rem;
+  font-weight: 650;
+  font-variant-numeric: tabular-nums;
+  line-height: 1.5;
+}
+
+.paper-row > span.paper-year:empty {
+  display: none;
+}
+
+.record-key {
+  flex-basis: 5.25rem;
+}
+
+.paper-body,
+.record-body {
+  min-width: 0;
+}
+
+.paper-title,
+.record-title {
+  color: var(--ink);
+  margin: 0;
+  font-family: var(--serif);
+  font-size: clamp(1.13rem, 1.65vw, 1.38rem);
+  font-weight: 500;
+  letter-spacing: -.015em;
+  line-height: 1.3;
+  overflow-wrap: break-word;
+}
+
+.paper-title a {
+  color: inherit;
+  text-decoration: underline;
+  text-decoration-color: var(--rule);
+  text-decoration-thickness: 1px;
+  text-underline-offset: .17em;
+}
+
+.paper-title a:hover,
+.paper-title a:focus-visible {
+  color: var(--wine);
+  text-decoration-color: currentColor;
+}
+
+.paper-authors,
+.paper-venue,
+.record-detail {
+  margin: .35rem 0 0;
+  color: var(--muted);
+  font-family: var(--sans);
+  font-size: .94rem;
+  line-height: 1.55;
+}
+
+.paper-authors strong {
+  color: var(--ink);
+  font-weight: 650;
+}
+
+.paper-venue {
+  margin-top: .12rem;
+}
+
+.paper-note {
+  margin: .5rem 0 0;
+  color: var(--wine);
+  font-family: var(--sans);
+  font-size: .86rem;
+  font-weight: 600;
+  line-height: 1.45;
+}
+
+.venue-list li {
+  padding-block: .88rem;
+  color: var(--ink);
+  font-family: var(--serif);
+  font-size: clamp(1.13rem, 1.65vw, 1.38rem);
+  line-height: 1.35;
+}
+
+@media (max-width: 48rem) {
+  .section-jump {
+    column-gap: 1.25rem;
+    margin-bottom: 1.75rem;
+  }
+
+  .record-section {
+    grid-template-columns: minmax(0, 1fr);
+    row-gap: 1.35rem;
+    padding-block: 2rem;
+  }
+}
+
+@media (max-width: 30rem) {
+  .paper-row,
+  .record-row {
+    display: block;
+    padding-block: 1.2rem;
+  }
+
+  .paper-year,
+  .record-key {
+    display: block;
+    margin-bottom: .3rem;
+  }
+
+  .paper-title,
+  .record-title,
+  .venue-list li {
+    font-size: 1.2rem;
+  }
+}
